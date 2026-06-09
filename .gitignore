@@ -70,3 +70,6 @@ Thumbs.db
 
 # BenchmarkDotNet
 /BenchmarkDotNet.Artifacts/
+
+A.txt
+B.txt
